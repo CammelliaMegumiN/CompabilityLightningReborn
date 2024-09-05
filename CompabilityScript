@@ -1,0 +1,8 @@
+--use Shadowmap Lightning--
+--Made by Cammellia--
+game.Lighting.Ambient = Color3.new(0.776471, 0.776471, 0.776471)
+game.Lighting.OutdoorAmbient = Color3.new(0.737255, 0.737255, 0.737255)
+game.Lighting.GlobalShadows = false
+game.Lighting.ColorShift_Top = Color3.new(0.713725, 0.713725, 0.713725)
+game.Lighting.ColorShift_Bottom = Color3.new(0.713725, 0.713725, 0.713725)
+--PUT THIS TO WORKSPACE DONT FORGET THAT IT ISNT A LOCALSCRIPT,ITS A SCRIPT--
